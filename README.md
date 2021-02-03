@@ -1,6 +1,6 @@
 # Blender_renders
 
-Some nice renders.
+Nice little renders.
 
 ![Sea Urchin](sea_urchin.png)
 ![Holographic city](0007.png)
